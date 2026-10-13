@@ -1,4 +1,4 @@
-# Pillar AI Visibility Checker (ChatGPT app / MCP server)
+# Shuttlewright AI Visibility Checker (ChatGPT app / MCP server)
 
 Remote MCP server (streamable HTTP at `/mcp`, stateless). Two read-only tools:
 - `check_ai_visibility_readiness(url)`: one public page + robots.txt + llms.txt -> pass/fix checklist and AI crawler rules.
